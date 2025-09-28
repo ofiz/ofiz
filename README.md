@@ -94,6 +94,7 @@ As a **Computer Science B.Sc. graduate** with rich background in data analysis, 
 
 **Tech Stack:** `Flask` `PyPDF2` `JavaScript` `HTML5/CSS3` `Cloud Deployment`
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Try%20Now-blue?style=for-the-badge)](https://pdf-merger-web-xvot.onrender.com/)
 [![Repo](https://img.shields.io/badge/Repository-View%20Code-2ea44f?style=for-the-badge)](https://github.com/ofiz/PDF-merger-web)
 ---
 
