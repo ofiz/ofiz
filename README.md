@@ -81,19 +81,20 @@ As a **Computer Science B.Sc. graduate** with rich background in data analysis, 
 
 ---
 
-### 💪 **FitLife - AI-Powered Fitness Platform**
-*Full-stack fitness tracking application with microservices architecture*
+### 📄 **Secure PDF Merger Web Application**
+*Web-based tool for merging PDF files with modern security features*
+
+<img src="https://github.com/user-attachments/assets/77e9beae-330a-4a66-93af-893fedca51a3" alt="PDF Merger Interface" width="700"/>
 
 **Key Features:**
-- Built comprehensive fitness application with **SQLite database management**
-- Integrated **Mistral AI chatbot** for personalized fitness guidance
-- Implemented **FastAPI backend** with **React frontend**
-- Developed **Docker microservices architecture**
+- Built secure web application with **drag-and-drop functionality**
+- Implemented **mobile-responsive design** with vanilla JavaScript
+- Developed **session-based security** mechanisms
+- Deployed on **Railway** and **Render** platforms for public accessibility
 
-**Tech Stack:** `FastAPI` `React` `SQLite` `Docker` `Mistral AI` `Microservices`
+**Tech Stack:** `Flask` `PyPDF2` `JavaScript` `HTML5/CSS3` `Cloud Deployment`
 
-[![Repo](https://img.shields.io/badge/Repository-View%20Code-2ea44f?style=for-the-badge)](https://github.com/ofiz/FITLIFE-fitness-tracking-ofir-cohen)
-
+[![Repo](https://img.shields.io/badge/Repository-View%20Code-2ea44f?style=for-the-badge)](https://github.com/ofiz/PDF-merger-web)
 ---
 
 ### 🌐 **FitFlow - Modern Web Application**
@@ -110,19 +111,18 @@ As a **Computer Science B.Sc. graduate** with rich background in data analysis, 
 [![Repo](https://img.shields.io/badge/Repository-View%20Code-2ea44f?style=for-the-badge)](https://github.com/ofiz/FitFlow)
 
 ---
-
-### 📄 **Secure PDF Merger Web Application**
-*Web-based tool for merging PDF files with modern security features*
+### 💪 **FitLife - AI-Powered Fitness Platform**
+*Full-stack fitness tracking application with microservices architecture*
 
 **Key Features:**
-- Built secure web application with **drag-and-drop functionality**
-- Implemented **mobile-responsive design** with vanilla JavaScript
-- Developed **session-based security** mechanisms
-- Deployed on **Railway** and **Render** platforms for public accessibility
+- Built comprehensive fitness application with **SQLite database management**
+- Integrated **Mistral AI chatbot** for personalized fitness guidance
+- Implemented **FastAPI backend** with **React frontend**
+- Developed **Docker microservices architecture**
 
-**Tech Stack:** `Flask` `PyPDF2` `JavaScript` `HTML5/CSS3` `Cloud Deployment`
+**Tech Stack:** `FastAPI` `React` `SQLite` `Docker` `Mistral AI` `Microservices`
 
-[![Repo](https://img.shields.io/badge/Repository-View%20Code-2ea44f?style=for-the-badge)](https://github.com/ofiz/PDF-merger-web)
+[![Repo](https://img.shields.io/badge/Repository-View%20Code-2ea44f?style=for-the-badge)](https://github.com/ofiz/FITLIFE-fitness-tracking-ofir-cohen)
 
 ---
 
