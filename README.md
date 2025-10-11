@@ -107,7 +107,7 @@ As a **Computer Science B.Sc. graduate** with rich background in data analysis, 
 - Built secure **JWT authentication** with **bcryptjs** password hashing
 - Created responsive design with modern UI/UX principles
 
-**Tech Stack:** `React` `Node.js` `Express` `MongoDB` `JWT` `CORS`
+**Tech Stack:** `React` `Node.js` `Express.js` `MongoDB` `JWT` `CORS`
 
 [![Repo](https://img.shields.io/badge/Repository-View%20Code-2ea44f?style=for-the-badge)](https://github.com/ofiz/FitFlow)
 
@@ -124,6 +124,24 @@ As a **Computer Science B.Sc. graduate** with rich background in data analysis, 
 **Tech Stack:** `FastAPI` `React` `SQLite` `Docker` `Mistral AI` `Microservices`
 
 [![Repo](https://img.shields.io/badge/Repository-View%20Code-2ea44f?style=for-the-badge)](https://github.com/ofiz/FITLIFE-fitness-tracking-ofir-cohen)
+
+---
+---
+
+### 💸 **Cost Tracker API - Real-Time Financial Management**
+*A scalable backend service for user expense management featuring advanced **Computed Monthly Reporting** and automated persistence, built with Node.js.*
+
+**Key Features:**
+- Complete **RESTful API** for expense and user **CRUD**.
+- **Performance Optimized:** Implements a **Computed Pattern** (caching) for fast monthly report generation.
+- **Robust Persistence:** Utilizes **MongoDB Atlas** and **Mongoose** for data integrity and complex querying.
+- **System Monitoring:** Built-in **System Logging** (Pino/Morgan) for tracking API activity.
+- Deployed and live using **Render** cloud hosting.
+
+**Tech Stack:** `Node.js` `Express.js` `MongoDB` `Mongoose` `RENDER`
+
+[![Repo](https://img.shields.io/badge/Repository-View%20Code-2ea44f?style=for-the-badge)](https://github.com/ofiz/Node.js_RESTful_API)
+[![Demo](https://img.shields.io/badge/Video%20Demo-Watch%20Now-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=irVI4yTz3fo)
 
 ---
 
