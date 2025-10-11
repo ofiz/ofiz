@@ -70,23 +70,31 @@ As a **Computer Science B.Sc. graduate** with rich background in data analysis, 
 ### 🔹 FitFlow - Comprehensive Fitness Tracker
 🎬 **Demo Video Coming Soon!** - Full-stack fitness tracking platform with AI-powered coach
 
-![FitFlow Home Screen](./images/home_screen_2.png)
+<img width="1700" height="1000" alt="Image" src="https://github.com/user-attachments/assets/8c56bd59-109a-4a12-97d4-42f2de3227e9" />
 *Modern fitness dashboard with real-time metrics*
 
-![Analytics Dashboard](./images/analytics_tab.png)
+
+<img width="1700" height="1000" alt="Image" src="https://github.com/user-attachments/assets/713682f6-df5e-41f9-a26d-b7308d5285a0" />
+
 *Interactive analytics with workout frequency and nutrition insights*
 
-![Workout Tracking](./images/workout_tab.png)
+
+<img width="1700" height="1000" alt="Image" src="https://github.com/user-attachments/assets/e8c02475-92f2-4485-aae5-a4ee84dc59a1" />
+
 *Comprehensive workout logging with duration and difficulty tracking*
 
-![Nutrition Monitoring](./images/nutrition_tab.png)
+
+<img width="1700" height="1000" alt="Image" src="https://github.com/user-attachments/assets/31b1258e-8eb7-484e-af2d-ab0b437b17b0" />
+
 *Daily meal tracking with complete macronutrient breakdown*
 
-![AI Fitness Coach](./images/AI_coach_tab.png)
+
+<img width="1700" height="1000" alt="Image" src="https://github.com/user-attachments/assets/659204b8-de91-4f80-b54f-abe291255dd2" />
+
 *24/7 AI-powered fitness coach for personalized advice*
 
-![Progress Gallery](./images/progress_gallery_tab.png)
-*Visual progress tracking with transformation photos*
+
+<img width="1700" height="1000" alt="Image" src="https://github.com/user-attachments/assets/d1267b16-360e-45d4-b68a-e4bcc77a56be" />*Visual progress tracking with transformation photos*
 
 **Key Features:**
 - **Dashboard Overview** - Real-time fitness summary with weekly workouts, daily calories, BMI, and active streak
