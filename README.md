@@ -66,6 +66,45 @@ As a **Computer Science B.Sc. graduate** with rich background in data analysis, 
 [![Repo](https://img.shields.io/badge/Repository-View%20Code-2ea44f?style=for-the-badge)](https://github.com/ofiz/CyberSecutity_communication_LTD)
 
 ---
+---
+### 🔹 FitFlow - Comprehensive Fitness Tracker
+🎬 **Demo Video Coming Soon!** - Full-stack fitness tracking platform with AI-powered coach
+
+![FitFlow Home Screen](./images/home_screen_2.png)
+*Modern fitness dashboard with real-time metrics*
+
+![Analytics Dashboard](./images/analytics_tab.png)
+*Interactive analytics with workout frequency and nutrition insights*
+
+![Workout Tracking](./images/workout_tab.png)
+*Comprehensive workout logging with duration and difficulty tracking*
+
+![Nutrition Monitoring](./images/nutrition_tab.png)
+*Daily meal tracking with complete macronutrient breakdown*
+
+![AI Fitness Coach](./images/AI_coach_tab.png)
+*24/7 AI-powered fitness coach for personalized advice*
+
+![Progress Gallery](./images/progress_gallery_tab.png)
+*Visual progress tracking with transformation photos*
+
+**Key Features:**
+- **Dashboard Overview** - Real-time fitness summary with weekly workouts, daily calories, BMI, and active streak
+- **Workout Tracking** - Log exercises with duration, difficulty, and comprehensive history
+- **Nutrition Tracker** - Track meals by type with complete macros breakdown (protein, carbs, fats)
+- **Progress Gallery** - Upload and visualize transformation photos over time
+- **Goals Management** - Set measurable fitness milestones with visual progress bars
+- **Analytics & Stats** - 4 interactive charts (workout frequency, calorie intake, macros, duration trends)
+- **BMR/TDEE Calculator** - Calculate daily calorie needs based on personal metrics
+- **Nutrition Trivia** - Interactive quiz game to test nutrition knowledge
+- **AI Fitness Coach** - Personalized advice powered by Mistral AI
+- **Comprehensive Testing** - 100+ tests with Jest covering all API endpoints
+
+**Tech Stack:** `React 18` `Node.js` `Express` `MongoDB` `Docker` `Mistral AI` `Recharts` `Jest` `Nginx`
+
+[![Repo](https://img.shields.io/badge/Repository-View%20Code-2ea44f?style=for-the-badge)](https://github.com/LirChen/FitFlow)
+
+---
 
 ### 📈 **Deep Learning GDP Forecasting Tool**
 *Advanced economic forecasting using state-of-the-art deep learning architectures*
