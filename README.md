@@ -50,6 +50,19 @@ As a **Computer Science B.Sc. graduate** with rich background in data analysis, 
 
 ---
 
+## 🌐 Portfolio
+
+<div align="center">
+
+### ✨ Want to see all my work in one place?
+
+[![Portfolio Website](https://img.shields.io/badge/🚀_Visit_My_Portfolio-FF6B6B?style=for-the-badge&logoColor=white)](https://ofiz.github.io/)
+
+**Explore my complete collection of projects, skills, and achievements**
+
+</div>
+
+---
 ## 🏆 Featured Projects
 
 ### 🔐 **Enterprise Cybersecurity Management System**
@@ -66,7 +79,7 @@ As a **Computer Science B.Sc. graduate** with rich background in data analysis, 
 [![Repo](https://img.shields.io/badge/Repository-View%20Code-2ea44f?style=for-the-badge)](https://github.com/ofiz/CyberSecutity_communication_LTD)
 
 ---
----
+
 ### 🔹 FitFlow - Comprehensive Fitness Tracker
 🎬 **Demo Video Coming Soon!** - Full-stack fitness tracking platform with AI-powered coach
 
