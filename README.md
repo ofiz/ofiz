@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-**I'm a Software Developer,Experienced Product Manager and Data Analyst** with extensive experience in **Unit 8200**, combining strong analytical capabilities with hands-on programming expertise. Currently serving at **MOD**.
+**I'm a Software Developer, Experienced Product Manager and Data Analyst** with extensive experience in **Unit 8200**, combining strong analytical capabilities with hands-on programming expertise. Currently serving at **MOD**.
 As a **Computer Science B.Sc. graduate** with rich background in produdt management, data analysis, software development and practical knowledge in cybersecurity - I specialize in transforming complex data into actionable insights and also building secure, scalable, and useful applications using modern development platforms and cutting-edge tools including cloud services, containerization technologies, and advanced analytics frameworks.
 
 - 🎓 **B.Sc. in Computer Science** from Holon Institute Of Technology (GPA: 89)
